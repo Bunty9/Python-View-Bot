@@ -46,6 +46,6 @@ Now run the python file to start the program
 $ python yt.py
 ```
 
-Enter your password which you used to hash in step 2
-Enter the site you want to view <please enter a url only>
-Enter the number of views
+-   Enter your password which you used to hash in step 2
+-   Enter the site you want to view $please enter a url only$
+-   Enter the number of views
