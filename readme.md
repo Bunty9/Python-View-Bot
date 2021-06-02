@@ -49,3 +49,10 @@ $ python yt.py
 -   Enter your password which you used to hash in step 2
 -   Enter the site you want to view $please enter a url only$
 -   Enter the number of views
+
+
+
+
+
+[![https://github.com/Bunty9](https://img.shields.io/badge/Made%20With%20❤️%20By-Bunty9-red)](https://github.com/Bunty9)
+
